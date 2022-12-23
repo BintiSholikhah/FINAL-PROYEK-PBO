@@ -1,0 +1,19 @@
+======================================
+       NOTA Penyewaan Tenda
+--------------------------------------
+Kode Sewa   : 10001
+--------------------------------------
+Nama Penyewa: Sutopo-Triantoro
+ID          : 6535
+--------------------------------------
+Tanggal sewa      : 23-September-2009
+Lama Sewa         : 2 hari
+jumlah            : 1 tenda
+No Tenda          : 11
+Jenis/Merk        : Consina Magnum
+Harga             : 600000
+Total Bayar       : 1200000
+--------------------------------------
+Petugas: Bambang Irianto
+NIP    : 1900089701
+======================================
